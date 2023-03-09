@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    ......f.....f.\n    ffffffffffffff\n    ......f.....f.\n    ..ffffffff..f.\n    -\n  output: |\n    2 aluno(s) reprovado(s) por falta.\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Reprovados por falta\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5305242331643904,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5305242331643904,
+  "key": "5305242331643904",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

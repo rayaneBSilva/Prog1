@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    1\n    2\n    3\n    4\n  name: exemplo\n  output: |\n    141\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Calcula Expressao abcd\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 6694543959261184,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 6694543959261184,
+  "key": "6694543959261184",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    600\n    120\n  output: |\n    Todas as condições satisfeitas.\n\n- input: |\n    500\n    321\n  output: |\n    Condição ENEM não satisfeita.\n\n- input: |\n    673\n    20\n  output: |\n    Condição CRÉDITOS não satisfeita.\n\n- input: |\n    500\n    410\n  output: |\n    Nenhuma condição satisfeita.\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"CSF\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5779767498375168,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5779767498375168,
+  "key": "5779767498375168",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    0\n    0\n    0\n    3\n    4\n    0\n  output: |\n    O perímetro é de 12.00\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Perímetro de Triângulo\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5819965137485824,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5819965137485824,
+  "key": "5819965137485824",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

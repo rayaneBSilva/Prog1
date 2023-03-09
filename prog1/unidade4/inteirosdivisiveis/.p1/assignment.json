@@ -1,0 +1,32 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    2\n    4\n    12\n  output: |\n    4\n    8\n    12\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "category": "public",
+        "content": "{\n  \"quality\": [\n    {\n      \"cc\": 4,\n      \"pep8\": 0,\n      \"lloc\": 6,\n      \"vhalstead\": 68.53,\n      \"header\": 3\n    }\n  ]\n}",
+        "mode": "r",
+        "name": "qcheck.json"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Inteiros Positivos Divisíveis\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 6450655784861696,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 6450655784861696,
+  "key": "6450655784861696",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

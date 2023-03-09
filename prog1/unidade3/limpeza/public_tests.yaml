@@ -1,0 +1,17 @@
+- input: |
+    1
+    5
+  output: |
+    R$ 400.00
+    Brinde!
+
+- input: |
+    3
+  output: |
+    R$ 50.00
+
+- input: |
+    1
+    2.005
+  output: |
+    R$ 160.40

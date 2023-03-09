@@ -1,0 +1,32 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    3\n    -7\n    2\n  output: |\n    x1 = 2.00\n    x2 = 0.33\n\n- input: |\n    5\n    -6\n    5\n  output: |\n    sem raizes reais\n\n- input: |\n    -1\n    4\n    -4\n  output: |\n    x = 2.00\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "category": "public",
+        "content": "{\n  \"quality\": [\n    {\n      \"cc\": 3,\n      \"pep8\": 0,\n      \"lloc\": 15,\n      \"vhalstead\": 245.0,\n      \"header\": 3\n    }\n  ]\n}",
+        "mode": "r",
+        "name": "qcheck.json"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Prof Equações\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5778478102216704,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5778478102216704,
+  "key": "5778478102216704",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    3\n    -7\n    2\n  output: |\n    0\n\n- input: |\n    5\n    5\n    5\n  output: |\n    3\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Números Iguais\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 6143464792129536,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 6143464792129536,
+  "key": "6143464792129536",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

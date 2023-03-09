@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    240\n    80\n    80\n  output: |\n    Teresa vendeu 80 (de 240) brinquedos. (33.33%)\n    Joaquim vendeu 80 (de 240) brinquedos. (33.33%)\n    Carla vendeu 80 (de 240) brinquedos. (33.33%)\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Vendas\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5331647253708800,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5331647253708800,
+  "key": "5331647253708800",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

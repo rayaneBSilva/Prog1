@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    5\n    4\n    6\n    7\n    15\n    8\n  output: |\n    média dos pares: 6.0\n    acima da média: 3\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Acima dos pares\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5526374896893952,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5526374896893952,
+  "key": "5526374896893952",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

@@ -1,0 +1,32 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    moto\n  output: |\n    Veículo não cadastrado.\n\n- input: |\n    Motocicleta\n  output: |\n    Valor a pagar: R$ 5.70.\n\n- input: |\n    Ônibus\n    2\n  output: |\n    Valor a pagar: R$ 22.80.\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "category": "public",
+        "content": "{\n  \"quality\": [\n    {\n      \"cc\": 6,\n      \"pep8\": 1,\n      \"lloc\": 15,\n      \"vhalstead\": 93.77,\n      \"header\": 3\n    }\n  ]\n}",
+        "mode": "r",
+        "name": "qcheck.json"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Pedágio\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5807849873604608,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5807849873604608,
+  "key": "5807849873604608",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

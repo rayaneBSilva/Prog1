@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    30\n  output: |\n    Quadrante 1\n\n- input: |\n    270\n  output: |\n    Sobre eixos\n\n- input: |\n    400\n  output: |\n    Quadrante 1\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Roleta 360\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5870375302856704,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5870375302856704,
+  "key": "5870375302856704",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

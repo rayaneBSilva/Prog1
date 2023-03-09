@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    100.0\n    1.0\n    vista\n  output: |\n    Total: R$ 80.00\n\n- input: |\n    10\n    10\n    2x\n  output: |\n    Total: R$ 90.00. Parcelas: R$ 45.00\n\n- input: |\n    10\n    10\n    3x\n  output: |\n    Total: R$ 95.00. Parcelas: R$ 31.67\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Formas de Pagamento\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5848188206448640,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5848188206448640,
+  "key": "5848188206448640",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

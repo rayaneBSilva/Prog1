@@ -1,0 +1,10 @@
+- input: |
+    iicciiicicicaaaaaaaaaaa
+    cciiiiaaaaaaaiaaa
+    iiiiiiiicccccccaaa
+    ###
+  name: exemplo
+  output: |
+    sim: 2
+    não: 1
+

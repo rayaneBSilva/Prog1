@@ -1,0 +1,7 @@
+- input: |
+    2
+    2
+    1200
+  output: |
+    Você precisará de 5.92 dias de dieta
+

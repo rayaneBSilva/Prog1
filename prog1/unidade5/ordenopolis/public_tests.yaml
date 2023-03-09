@@ -1,0 +1,25 @@
+- input: |
+    antonio
+    marcos
+    oliveira
+  output: |
+    nome 1? nome 2? nome 3? antonio marcos de oliveira
+
+- input: |
+    jose
+    cesar
+    silva
+    beatriz
+    oliveira
+    medeiros
+    davi
+    abreu
+    silva
+    antonio
+    marcos
+    oliveira
+  output: |
+    nome 1? nome 2? nome 3? nomes inválidos: tente novamente
+    nome 1? nome 2? nome 3? nomes inválidos: tente novamente
+    nome 1? nome 2? nome 3? nomes inválidos: tente novamente
+    nome 1? nome 2? nome 3? antonio marcos de oliveira

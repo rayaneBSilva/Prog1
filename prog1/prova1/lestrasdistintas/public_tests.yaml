@@ -1,0 +1,5 @@
+- input: |
+    universidade
+    verdade
+  output: |
+    5

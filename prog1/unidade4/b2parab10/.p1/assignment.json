@@ -1,0 +1,32 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    1010\n  output: |\n    1 * 8 = 8\n    0 * 4 = 0\n    1 * 2 = 2\n    0 * 1 = 0\n    1010(2) = 10(10)\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "category": "public",
+        "content": "{\n  \"quality\": [\n    {\n      \"cc\": 2,\n      \"pep8\": 0,\n      \"lloc\": 9,\n      \"vhalstead\": 89.21,\n      \"header\": 3\n    }\n  ]\n}",
+        "mode": "r",
+        "name": "qcheck.json"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"B2 para B10\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 6360773494308864,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 6360773494308864,
+  "key": "6360773494308864",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

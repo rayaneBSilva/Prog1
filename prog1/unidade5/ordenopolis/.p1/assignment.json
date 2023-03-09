@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    antonio\n    marcos\n    oliveira\n  output: |\n    nome 1? nome 2? nome 3? antonio marcos de oliveira\n\n- input: |\n    jose\n    cesar\n    silva\n    beatriz\n    oliveira\n    medeiros\n    davi\n    abreu\n    silva\n    antonio\n    marcos\n    oliveira\n  output: |\n    nome 1? nome 2? nome 3? nomes inválidos: tente novamente\n    nome 1? nome 2? nome 3? nomes inválidos: tente novamente\n    nome 1? nome 2? nome 3? nomes inválidos: tente novamente\n    nome 1? nome 2? nome 3? antonio marcos de oliveira\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Ordenópolis\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 4836870443761664,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 4836870443761664,
+  "key": "4836870443761664",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

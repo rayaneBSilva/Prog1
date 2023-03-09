@@ -1,0 +1,35 @@
+- input: |
+    maria
+    ana
+  output: |
+    3
+
+- input: |
+    jose
+    carlos
+  output: |
+    2
+
+- input: |
+    maria
+    maria
+  output: |
+      0
+- input: |
+    ana
+    fernanda
+  output: |
+    0
+
+- input: |
+    clc
+    bonita
+  output: |
+    3
+
+- input: |
+    borboleta
+    orbol
+  output: |
+     3
+

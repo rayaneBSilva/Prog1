@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    iicciiicicicaaaaaaaaaaa\n    cciiiiaaaaaaaiaaa\n    iiiiiiiicccccccaaa\n    ###\n  name: exemplo\n  output: |\n    sim: 2\n    não: 1\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Fila da Vacina\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5236811691458560,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5236811691458560,
+  "key": "5236811691458560",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

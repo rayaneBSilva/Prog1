@@ -1,0 +1,10 @@
+- input: |
+    5
+    4
+    6
+    7
+    15
+    8
+  output: |
+    média dos pares: 6.0
+    acima da média: 3

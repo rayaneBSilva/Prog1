@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "{\n  \"quality\": [\n    {\n      \"cc\": 2,\n      \"pep8\": 0,\n      \"lloc\": 3,\n      \"vhalstead\": 0.0,\n      \"header\": 0\n    }\n  ]\n}",
+        "mode": "r",
+        "name": "qcheck.json"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Série (PA-2)\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5227454333452288,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5227454333452288,
+  "key": "5227454333452288",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}

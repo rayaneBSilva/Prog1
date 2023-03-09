@@ -1,0 +1,26 @@
+{
+  "dirname": null,
+  "full_resource": {
+    "dirname": null,
+    "files": [
+      {
+        "category": "public",
+        "content": "- input: |\n    1\n  output: |\n    R$ 1.50\n\n- input: |\n    10\n  output: |\n    R$ 7.00\n\n- input: |\n    14\n  output: |\n    R$ 9.80\n\n",
+        "mode": "ro",
+        "name": "public_tests.yaml"
+      },
+      {
+        "content": "{\n  \"tests\": [],\n  \"title\": \"Telefonia\"\n}",
+        "mode": "r",
+        "name": "tst.json"
+      }
+    ],
+    "iid": 5774339901227008,
+    "index": null,
+    "user": "rayane.silva@ccc.ufcg.edu.br"
+  },
+  "iid": 5774339901227008,
+  "key": "5774339901227008",
+  "site": "prog1",
+  "user": "rayane.silva@ccc.ufcg.edu.br"
+}
